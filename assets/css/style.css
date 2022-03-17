@@ -154,16 +154,13 @@ body {
     padding-right: 150px;
     padding-bottom: 80px;
     padding-top: 80px;
-
-}
-
-.icon_row {
     display: flex;
     flex-direction: row;
-    padding: 0px;
-    margin: 0px;
     justify-content: center;
+
+
 }
+
 
 /* Smartphones (portrait and landscape) ----------- */
 @media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
