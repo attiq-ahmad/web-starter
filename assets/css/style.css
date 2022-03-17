@@ -45,15 +45,17 @@ body {
 }
 
 .start_page {
-    flex-basis: 40%;
+    flex-basis: 80%;
     padding-left: 150px;
     padding-right: 150px;
     padding-bottom: 150px;
     display: flex;
     flex-direction: column;
     justify-content: center;
+    align-items: center;
 
 }
+
 
 
 .start-page-button {
@@ -74,7 +76,6 @@ body {
 
 .start-page-heading1 {
     font-size: 4em;
-    text-align: center;
     color: white;
     letter-spacing: 5px;
 }
@@ -82,7 +83,6 @@ body {
 .start-page-heading3 {
     font-size: 1em;
     color: white;
-    text-align: center;
 }
 
 #link1_section {
